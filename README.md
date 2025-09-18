@@ -38,3 +38,8 @@ The objective is to build an automated system that can classify news articles as
 **Dataset used**
 
 https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+**Project recording link (Google drive)**
+
+https://drive.google.com/drive/folders/1r4zuOky5xeWKH9NpkU7SEMMBi01FSdyJ?usp=sharing
+
